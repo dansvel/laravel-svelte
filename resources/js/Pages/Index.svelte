@@ -50,7 +50,7 @@
 </style>
 
 <svelte:head>
-    <title>Laravel and Svelte with Svelte</title>
+    <title>Laravel and Svelte with Inertia</title>
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     <style>
         html, body {
