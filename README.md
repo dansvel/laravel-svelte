@@ -11,12 +11,6 @@ git clone https://github.com/djiwan/laravel-svelte.git
 cd laravel-svelte
 ```
 
-Generate application key:
-
-```shell script
-php artisan key:generate
-```
-
 Install PHP dependencies:
 
 ```shell script
@@ -39,6 +33,12 @@ Setup configuration:
 
 ```shell script
 cp .env.example .env
+```
+
+Generate application key:
+
+```shell script
+php artisan key:generate
 ```
 
 Run artisan server:
