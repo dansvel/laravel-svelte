@@ -47,7 +47,7 @@ Run artisan server:
 php artisan serve
 ```
 
-You're ready to go! Oopen browser and check the following address. http://localhost:8100
+You're ready to go! Open browser and check the following address. http://localhost:8100
 
 ## Credits
 - [laravel-mix-svelte](https://github.com/wewowweb/laravel-mix-svelte) by We Wow Web
