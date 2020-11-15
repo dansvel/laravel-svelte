@@ -7,7 +7,7 @@ A ready to develop [Laravel](https://laravel.com/) and [Svelte](https://svelte.d
 Clone the repo
 
 ```shell script
-git clone https://github.com/dan-unhuman/laravel-svelte.git
+git clone https://github.com/dansvel/laravel-svelte.git
 cd laravel-svelte
 ```
 
